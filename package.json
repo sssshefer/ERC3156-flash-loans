@@ -1,0 +1,16 @@
+{
+  "name": "erc3156-flash-loans",
+  "version": "1.0.0",
+  "description": "ERC3156 Flash loans Solidity smart contract implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.8"
+  }
+}
