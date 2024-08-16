@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/eacf04ae-34da-45d6-8622-1d9b9c32ff44" alt="no-debt-image"/>
+
 # ERC3156 Flash Loans
 
 This project showcases the implementation of ERC3156 flash loans using Solidity. Flash loans are a type of loan that must be borrowed and repaid within a single transaction. This allows for risk-free loan borrowing and ensures atomicity of transactions. This project is intended for educational purposes and does not guarantee full security in real blockchain environments. It is recommended to use audited contracts in production for safety and reliability.
@@ -61,6 +63,8 @@ To run this project locally, follow these steps:
     ```bash
     npx hardhat test
     ```
-<a href="https://ru.freepik.com/free-vector/flat-design-nft-concept-illustration_13862491.htm#fromView=search&page=1&position=33&uuid=b0eab404-da8d-46b7-8df6-84d90b7209cd">The pic is from freepik</a>
+
+<hr/>
+<a href="https://ru.freepik.com/free-vector/freedom-from-debt-ball-happy-businessman-illustration-man-suit-cutting-long-chain-with-scissors-financial-free-person-breaking-bank-credit-business-loan-tax-heavy-burden_25871937.htm#fromView=search&page=1&position=7&uuid=ec586022-ec62-4168-8de3-95fe5b40683c">The picture is from studio4rt on Freepik</a>
 
 ***Happy hacking***
