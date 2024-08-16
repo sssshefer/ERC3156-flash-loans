@@ -53,7 +53,6 @@ contract FlashBorrower is IERC3156FlashBorrower {
             address(lender)
         );
         uint256 _fee = lender.flashFee(token, amount);
-
         uint256 _repayment = amount + _fee;
 
         IERC20(token).approve(address(lender), _allowance + _repayment);
